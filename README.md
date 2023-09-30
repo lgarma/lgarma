@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+- 🔭 PhD in astrophysics. Galaxy dynamics and stellar bars.
+- 🎯 I’m currently working as Data Scientist in Mexico city
+- 🌱 I’m currently learning generative AI
+
 <!--
-**lgarma/lgarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
