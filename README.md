@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 PhD in astrophysics. Galaxy dynamics and stellar bars.
-- 🎯 I’m currently working as Data Scientist in Mexico city
-- 🌱 I’m currently learning generative AI
+- 🎯 I’m currently working on Generative AI projeccts in Mexico city
 
 <!--
 
